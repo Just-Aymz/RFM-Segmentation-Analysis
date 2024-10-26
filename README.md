@@ -9,7 +9,7 @@ Insights and recommendations are provided on the following key areas:
 * Reactivation campaigns for inactive customers.
 * Loyalty and reward campaigns for loyal and high-value customers.
 
-The notebook used to inspect and clean the data for this analysis can be found here [link]().
+The notebook used to inspect and clean the data for this analysis can be found here [link](https://github.com/Just-Aymz/RFM-Segmentation-Analysis/blob/main/Preprocessing.ipynb).
 
 # Data Structure & Initial Checks
 
