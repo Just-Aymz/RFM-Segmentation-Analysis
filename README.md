@@ -38,4 +38,7 @@ A total of nine distinct customer clusters have been identified, which can be gr
 For the non-outlier segment, the median Monetary Value is approximately £600.00 to £650.00, with a purchase Frequency of 2 and a median Recency of 52 days between transactions. In contrast, customers in the outlier segment demonstrate significantly higher engagement, with a median Monetary Value of around £5180.00, a Frequency of 13 purchases, and a Recency of just 11 days between transactions.
 
 This segmentation allows for a refined understanding of customer behaviors, supporting more targeted engagement strategies.
-![alt text](image.jpg)
+
+![output](https://github.com/user-attachments/assets/6cfbd065-7e58-4b91-9ad8-579339009be9)
+
+# Insights Deep Dive
