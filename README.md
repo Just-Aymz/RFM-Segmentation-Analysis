@@ -17,7 +17,7 @@ An interactive Power BI dashboard used to report and explore sales trends can be
 
 # Data Structure & Initial Checks
 
-[Link](https://archive.ics.uci.edu/dataset/352/online+retail) To dataset.
+The datacard for this dataset can be found at: [Link](https://archive.ics.uci.edu/dataset/352/online+retail). An overview is provided below. 
 
 | Variable Name | Role | Type | Description | Units | Missing Values |
 | ------------- | ---- | ---- | ----------- | ----- | -------------- |
@@ -31,5 +31,11 @@ An interactive Power BI dashboard used to report and explore sales trends can be
 | Country | Feature | Categorical | The name of the country where each customer resides | - | No |
 
 # Executive Summary 
-**Overview of Findings**
-A total of 8 cluster groups were created from the dataset
+### **Overview of Findings**:
+
+A total of nine distinct customer clusters have been identified, which can be grouped into two primary behavioral segments: non-outlier and outlier customers based on the features of Monetary Value, Recency, and Frequency.
+
+For the non-outlier segment, the median Monetary Value is approximately £600.00 to £650.00, with a purchase Frequency of 2 and a median Recency of 52 days between transactions. In contrast, customers in the outlier segment demonstrate significantly higher engagement, with a median Monetary Value of around £5180.00, a Frequency of 13 purchases, and a Recency of just 11 days between transactions.
+
+This segmentation allows for a refined understanding of customer behaviors, supporting more targeted engagement strategies.
+![alt text](image.jpg)
