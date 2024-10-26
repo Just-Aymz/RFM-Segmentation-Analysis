@@ -42,3 +42,15 @@ This segmentation allows for a refined understanding of customer behaviors, supp
 ![output](https://github.com/user-attachments/assets/6cfbd065-7e58-4b91-9ad8-579339009be9)
 
 # Insights Deep Dive
+1. Non-Outlier Category:
+   * Customers in the non-outlier category are predominantly newer clients. Clusters in this category demonstrate a lower Monetary Value relative to those in the outlier category, indicating their early-stage engagement with our organization.
+   * The clusters providing the highest Monetary Value include *New High-Value*, *Engaged Customer*, and *High-Value, Interested Customer* groups.
+   * The cluster with the highest median Recency value identifies *Once-Off Customers*, as evidenced by a median Frequency of 1.
+
+![output](https://github.com/user-attachments/assets/66439754-6d80-4c33-a795-29c0ccd1812b)
+
+2. Outlier Category:
+  * Customers in the outlier category are predominantly our most frquent customers. Clusters in this category demonstrate a high monetary value.
+  * The clusters providing the highest Monetary Value include: *Lapsed Customers*, and *Active, High-value Customer*.
+
+
